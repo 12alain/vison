@@ -5,5 +5,4 @@ torchvision
 Pillow>=7.1.0
 scikit-image
 matplotlib
-gdown
-click
+gdown==3.13.0
